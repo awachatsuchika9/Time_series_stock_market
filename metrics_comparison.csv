@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE
+ARIMA,15.2,20.4,2.8
+Prophet,13.9,18.7,2.5
+LSTM,12.3,17.5,2.2
